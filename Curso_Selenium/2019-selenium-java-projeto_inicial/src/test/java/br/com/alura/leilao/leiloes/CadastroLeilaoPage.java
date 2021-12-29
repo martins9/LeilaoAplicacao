@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 
 import br.com.alura.leilao.PageObject;
 
+
+
 public class CadastroLeilaoPage extends PageObject{
 	
 	private static final String URL_CADASTRO_LEILAO = "http://localhost:9090/leiloes/new";
